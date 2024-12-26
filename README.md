@@ -1,5 +1,7 @@
 # PokemonApp
 
+<img src="app/readmeImages/pokedexImage.png" alt="Pokedex Image" width="400" /> <img src="app/readmeImages/misPokemonsImage.png" alt="Mis pokemons Image" width="400" />
+
 ## Introducción
 
 **PokemonApp** es una aplicación diseñada para los aficionados a Pokémon. En ella puedes explorar una Pokédex con los primeros 101 Pokémon, capturar tus favoritos y gestionar tu colección personal. Además, la aplicación ofrece ajustes personalizables para una experiencia adaptada a tus preferencias.
