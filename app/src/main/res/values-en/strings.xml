@@ -1,0 +1,18 @@
+<resources>
+    <string name="mis_pokemons">My Pokemons</string>
+    <string name="pokedex">Pokedex</string>
+    <string name="ajustes">Settings</string>
+    <string name="exitoAlGuardar">Pokemon saved successfully</string>
+    <string name="errirAlGuardar">Error saving the Pokémon: </string>
+    <string name="usuarioNoAuth">User not authenticated.</string>
+    <string name="esEn">Spanish/English</string>
+    <string name="habilitarEliminarPokemon">Delete Captured Pokémon</string>
+    <string name="acercaDeBtn">About</string>
+    <string name="cerrarSesionBtn">Log out</string>
+    <string name="developer">Developer: Jonatan Carbonell Martinez\nVersion: 1.0.0</string>
+    <string name="indicePokedex">Pokedex index: </string>
+    <string name="alturaPokemon">Height: </string>
+    <string name="pesoPokemon">Weight: </string>
+    <string name="tiposPokemon">Types: </string>
+    <string name="atrasBtn">Back</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="mis_pokemons">Mis Pokemons</string>
+    <string name="pokedex">Pokedex</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="exitoAlGuardar">Pokémon guardado con éxito!</string>
+    <string name="errirAlGuardar">Error al guardar el Pokémon: </string>
+    <string name="usuarioNoAuth">Usuario no autenticado.</string>
+    <string name="esEn">Español/Inglés</string>
+    <string name="habilitarEliminarPokemon">Eliminar Pokémon capturados</string>
+    <string name="acercaDeBtn">Acerca de</string>
+    <string name="cerrarSesionBtn">Cerrar sesión</string>
+    <string name="developer">Desarrollador: Jonatan Carbonell Martinez\nVersión: 1.0.0</string>
+    <string name="indicePokedex">Indice Pokedex: </string>
+    <string name="alturaPokemon">Altura: </string>
+    <string name="pesoPokemon">Peso: </string>
+    <string name="tiposPokemon">Tipos: </string>
+    <string name="atrasBtn">Atrás</string>
+</resources>

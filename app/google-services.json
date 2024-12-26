@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004036435739",
+    "project_id": "pokemonapp-edf9a",
+    "storage_bucket": "pokemonapp-edf9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004036435739:android:5daec8e1413cd1f86aedbe",
+        "android_client_info": {
+          "package_name": "com.jcm.pokemonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004036435739-bsag1a08ldsp2tm8l6e9sg4f5ufboksg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0oV4FGCVFzufOD0JwxtRJ_9DQDgibg70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004036435739-bsag1a08ldsp2tm8l6e9sg4f5ufboksg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

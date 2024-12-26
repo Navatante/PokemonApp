@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/pokedexFragment">
+
+    <!-- Fragmento Pokedex -->
+    <fragment
+        android:id="@+id/pokedexFragment"
+        android:name="com.jcm.pokemonapp.PokedexFragment"
+        android:label="Pokedex"
+        tools:layout="@layout/fragment_pokedex"/>
+
+    <!-- Fragmento Pokemons Capturados -->
+    <fragment
+        android:id="@+id/pokemonsCapturadosFragment"
+        android:name="com.jcm.pokemonapp.PokemonsCapturadosFragment"
+        android:label="Pokemons Capturados"
+        tools:layout="@layout/fragment_pokemons_capturados">
+
+        <!-- Acción de navegación desde Pokemons Capturados hacia Pokemon Details -->
+        <action
+            android:id="@+id/action_pokemonsCapturadosFragment_to_pokemonDetailsFragment"
+            app:destination="@id/pokemonDetailsFragment" />
+    </fragment>
+
+    <!-- Fragmento Pokemon Details -->
+    <fragment
+        android:id="@+id/pokemonDetailsFragment"
+        android:name="com.jcm.pokemonapp.PokemonDetailsFragment"
+        android:label="Pokemon Details"
+        tools:layout="@layout/fragment_pokemon_details"/>
+
+    <!-- Fragmento Ajustes -->
+    <fragment
+        android:id="@+id/ajustesFragment"
+        android:name="com.jcm.pokemonapp.AjustesFragment"
+        android:label="Ajustes"
+        tools:layout="@layout/fragment_ajustes"/>
+
+</navigation>
